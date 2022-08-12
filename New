@@ -38,7 +38,7 @@ local Library = {
     OpenedFrames = {};
 
     Signals = {};
-    ScreenGui = ScreenGui;
+    ScreenGui = Lazium;
 };
 
 local RainbowStep = 0
